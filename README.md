@@ -6,11 +6,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot of my solution](./screenshot.png)
+![Screenshot of my solution](/screen.png)
 
 ### Links
 
-- Solution URL: [https://github.com/yourusername/qr-code-component](https://github.com/yourusername/qr-code-component)
+- Solution URL: [https://github.com/nicolas-castro92/qr-component](https://github.com/nicolas-castro92/qr-component)
 - Live Site URL: [https://your-live-demo-url.com](https://your-live-demo-url.com)
 
 ## My process
@@ -20,7 +20,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic **HTML5** markup  
 - **Tailwind CSS** for styling  
 - **Angular** for project structure  
-- Mobile-first workflow  
 
 ### What I learned
 
@@ -32,5 +31,5 @@ This was my first challenge using **Tailwind with Angular**. I learned how to:
 
 ## Author
 
-- Frontend Mentor - [](https://www.frontendmentor.io/profile/yourusername)  
-- GitHub - [](https://github.com/yourusername)  
+- Frontend Mentor - [https://www.frontendmentor.io/profile/nicolas-castro92](https://www.frontendmentor.io/profile/nicolas-castro92)  
+- GitHub - [https://github.com/nicolas-castro92](https://github.com/nicolas-castro92)  
