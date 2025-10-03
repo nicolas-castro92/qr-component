@@ -11,7 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/nicolas-castro92/qr-component](https://github.com/nicolas-castro92/qr-component)
-- Live Site URL: [https://your-live-demo-url.com](https://your-live-demo-url.com)
+- Live Site URL: [https://qr-component-iota-sepia.vercel.app/card](https://qr-component-iota-sepia.vercel.app/card)
 
 ## My process
 
